@@ -1,1 +1,1 @@
-import python_project_template.__main__  # noqa: F401 - test imports
+import app_interface_mirror_monitoring.__main__  # noqa: F401 - test imports

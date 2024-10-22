@@ -1,4 +1,4 @@
-from python_project_template.core import app
+from app_interface_mirror_monitoring.core import app
 
 
 def test_app() -> None:
